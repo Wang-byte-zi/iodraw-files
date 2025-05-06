@@ -7,6 +7,9 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-100" value="医院账单（His系统）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qx6wgwKDIuv37HBXR7aW-146" target="qx6wgwKDIuv37HBXR7aW-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-146" value="公众号（G）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="90" height="40" as="geometry" />
         </mxCell>
@@ -75,6 +78,9 @@
           <mxGeometry x="178" width="222" height="20" as="geometry">
             <mxRectangle width="222" height="20" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-235" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
