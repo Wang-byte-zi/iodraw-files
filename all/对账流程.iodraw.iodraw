@@ -102,7 +102,7 @@
             <mxRectangle width="110" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qx6wgwKDIuv37HBXR7aW-215" value="公众号" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="qx6wgwKDIuv37HBXR7aW-204">
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-215" value="自助机 " style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="qx6wgwKDIuv37HBXR7aW-204">
           <mxGeometry y="90" width="480" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-216" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="qx6wgwKDIuv37HBXR7aW-215">
