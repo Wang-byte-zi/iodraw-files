@@ -13,7 +13,7 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-147" value="自助机（Z）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="10" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qx6wgwKDIuv37HBXR7aW-149" value="人工窗口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-149" value="人工窗口（R）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-151" value="支付宝平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
