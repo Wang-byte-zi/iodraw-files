@@ -7,7 +7,7 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-100" value="医院账单（His系统）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qx6wgwKDIuv37HBXR7aW-146" value="公众号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-146" value="公众号（G）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-147" value="自助机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
