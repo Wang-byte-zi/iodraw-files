@@ -7,6 +7,11 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-100" value="医院账单（His系统）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qx6wgwKDIuv37HBXR7aW-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-111" value="账务数据清洗" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="240" height="90" as="geometry" />
         </mxCell>
