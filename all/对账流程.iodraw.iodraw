@@ -108,8 +108,20 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-146" value="公众号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="10" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qx6wgwKDIuv37HBXR7aW-147" target="qx6wgwKDIuv37HBXR7aW-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-147" value="自助机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qx6wgwKDIuv37HBXR7aW-149" target="qx6wgwKDIuv37HBXR7aW-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-149" value="人工窗口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-151" value="自助机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="10" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
