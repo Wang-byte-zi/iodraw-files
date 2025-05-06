@@ -19,6 +19,11 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-151" value="支付宝平台（B）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="10" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qx6wgwKDIuv37HBXR7aW-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-189" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="270" height="70" as="geometry" />
         </mxCell>
