@@ -102,8 +102,8 @@
             <mxRectangle width="94" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qx6wgwKDIuv37HBXR7aW-146" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-146" value="公众号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
