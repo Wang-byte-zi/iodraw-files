@@ -19,7 +19,7 @@
         <mxCell id="qx6wgwKDIuv37HBXR7aW-151" value="支付宝平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="10" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qx6wgwKDIuv37HBXR7aW-178" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
+        <mxCell id="qx6wgwKDIuv37HBXR7aW-178" value="医院账单数据清洗" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="520" height="280" as="geometry" />
         </mxCell>
         <mxCell id="qx6wgwKDIuv37HBXR7aW-179" value="" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="qx6wgwKDIuv37HBXR7aW-178">
