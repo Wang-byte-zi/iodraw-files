@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XSLsv_IHFevxD84S7687-23" value="感知层（边缘）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="90" width="170" height="120" as="geometry" />
+          <mxGeometry x="280" y="100" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XSLsv_IHFevxD84S7687-24" value="- 路面传感器采集" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="XSLsv_IHFevxD84S7687-23">
           <mxGeometry y="26" width="170" height="30" as="geometry" />
@@ -51,8 +51,10 @@
         <mxCell id="XSLsv_IHFevxD84S7687-26" value="- 特征提取（如IRI、裂缝密度）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="XSLsv_IHFevxD84S7687-23">
           <mxGeometry y="86" width="170" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="XSLsv_IHFevxD84S7687-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.429;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XSLsv_IHFevxD84S7687-31" target="XSLsv_IHFevxD84S7687-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XSLsv_IHFevxD84S7687-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.429;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XSLsv_IHFevxD84S7687-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="92" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XSLsv_IHFevxD84S7687-31" value="周期性数据上传 / 实时预测结果反馈" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="20" width="210" height="40" as="geometry" />
